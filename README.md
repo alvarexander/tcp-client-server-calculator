@@ -13,9 +13,9 @@ on the other run:
 4. The answer will be sent from the server as: "Answer from the server:20".
 
 Notes:
-Plese enter your input without any spaces in between.
-Please don't forget to add the local host IP 127.0.0.1 when running your client.
-Typing in 0/0 will close the connection and end both programs.
-The port used is 9898 and is closed when the program ends.
-Entering just a number will yield a value of 0.
-A null received on the server side indicates the users intent to end the program by typing in 0/0.
++Plese enter your input without any spaces in between.
++Please don't forget to add the local host IP 127.0.0.1 when running your client.
++Typing in 0/0 will close the connection and end both programs.
++The port used is 9898 and is closed when the program ends.
++Entering just a number will yield a value of 0.
++A null received on the server side indicates the users intent to end the program by typing in 0/0.
