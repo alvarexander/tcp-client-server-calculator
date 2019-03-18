@@ -2,9 +2,9 @@
 A networking program using the TCP protocol in the C language that works as a calculator between server and client.
 To run the program on the same machine open two separate terminal windows.
 
-Server program: 
-1 - gcc server.c -o server
-2 - ./server
+Server: 
+1. - gcc server.c -o server
+2. - ./server
 
 Client:
 1. gcc client.c -o client
