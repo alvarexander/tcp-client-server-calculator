@@ -1,12 +1,12 @@
 # TCP-Client-Server-Calculator
-A networking program using the TCP protocol in the C language that works as a calculator between server and client
-To run the program open two separate terminal windows:
+A networking program using the TCP protocol in the C language that works as a calculator between server and client.
+To run the program on the same machine open two separate terminal windows.
 
-and run one one: 
+Server program: 
 1 - gcc server.c -o server
 2 - ./server
 
-on the other run:
+Client:
 1. gcc client.c -o client
 2. ./client 127.0.0.1
 3. Then proceed to type in any expression without space such as: "15+5"
