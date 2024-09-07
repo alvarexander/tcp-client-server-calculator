@@ -162,9 +162,9 @@ int main(int argc, char *argv[])
         case 4:
         if(er_flag == 0)
         {
-	        ans = num1/num2;
-	        printf(";send back answer %.2f\n",ans);
-   	 	}
+		ans = num1/num2;
+		printf(";send back answer %.2f\n",ans);
+   	 }
         break;
 
     }
